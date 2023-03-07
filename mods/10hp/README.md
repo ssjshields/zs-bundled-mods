@@ -20,13 +20,23 @@ For some, however, that challenge is still not enough.
 
 ## FAQ
 Q. Will this mod affect my current saves?
+
 A. Yes. After installing the mod, all characters will always have max 10 HP.
 
+---
+
 Q. If I uninstall the mod, what happens to the max HP of the characters?
+
 A. The max HP of the characters will return back to its regular value (default 75)
 
+---
+
 Q. Can this mod work with other Zero Sievert mods?
+
 A. As of now, there is no way to load two mods at once. Modder cooperation would be required to merge two mods together.
 
+---
+
 Q. This mod is very tiny, why don't you make something larger?
+
 A. Currently the game is still under development so there's not much sense in writing huge mods, as the upkeep of those would be nearly impossible with the speed the game is changing. I am still learning how to mod this game, but my plan is to introduce many different mods, mostly focusing on increasing the challenge of the game as well as improving QoL. This is a first dip in the waters for me.
