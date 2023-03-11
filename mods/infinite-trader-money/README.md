@@ -15,3 +15,7 @@ Sell all your gear whenever you want to. Infinite money for traders.
 1. Launch the game. The mod is now active.
 
 *Attention:* If you'd like to disable the mod eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
+
+## Screenshots
+
+![InfiniteTraderMoney](https://user-images.githubusercontent.com/16853947/224494156-174a3309-8c57-4e6d-abf6-e39a269f0a21.png)
