@@ -13,3 +13,8 @@ Adds an informational textbox with data on how much damage your last shot dealt.
 1. Launch the game. The mod is now active.
 
 *Attention:* If you'd like to disable the mod eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
+
+## Screenshots
+
+![20230311205757_1](https://user-images.githubusercontent.com/16853947/224509311-dcd14fe1-0db5-4177-baab-741f6bf46d3b.jpg)
+![20230311205811_1](https://user-images.githubusercontent.com/16853947/224509312-b1a7139a-811c-44d9-9af7-2fe98a5eb7a0.jpg)
