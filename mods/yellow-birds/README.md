@@ -14,6 +14,6 @@ If this is you, you've found the perfect mod. `Yellow Birds` puts a beautiful ye
 	1. If installed through Steam, go to the game properties, local files and browse.
 1. Move the unzipped `data.win` file into the `ZERO Sievert` directory
 	1. A message will state a file with the same name already exists. Select the option to overwrite the existing file.
-1. Launch the game. Your character will now have a max amount of 10 hit points.
+1. Launch the game. The mod is now active.
 
 *Attention:* If you'd like to disable the mod eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
