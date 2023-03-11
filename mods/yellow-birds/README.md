@@ -17,3 +17,15 @@ If this is you, you've found the perfect mod. `Yellow Birds` puts a beautiful ye
 1. Launch the game. The mod is now active.
 
 *Attention:* If you'd like to disable the mod eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
+
+## Screenshots
+
+![20230309181745_1](https://user-images.githubusercontent.com/16853947/224118935-0c2b3758-546a-496e-877e-3ba475d29a38.jpg)
+
+---
+
+![20230309190709_1](https://user-images.githubusercontent.com/16853947/224118942-12487c63-07f0-40e4-9598-e80751fdeb2d.jpg)
+
+---
+
+![20230309191028_1](https://user-images.githubusercontent.com/16853947/224118949-de526fad-79a2-4cd3-82a3-8e545ca6851e.jpg)
