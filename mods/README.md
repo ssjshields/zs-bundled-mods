@@ -2,7 +2,7 @@
 
 ## Bundle
 
-* [Check out our bundle of mods for ZERO Sievert](./mods/bundled-mods)
+* [Check out our bundle of mods for ZERO Sievert](./bundled-mods)
 
 ## My Individual Mods
 
