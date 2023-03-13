@@ -1,14 +1,14 @@
 # Ultimate ZERO Sievert Mod bundle
 
-A bundle with your favorite ZERO Sievert mods. Credits to Eldoofus for figuring out how to make mods configurable.
+A bundle with your favorite ZERO Sievert mods. Credits to `Eldoofus` for figuring out how to make mods configurable.
 
 ## Included mods
 
 This bundle includes the following mods:
 1. [Infinite Trader Money](../infinite-trader-money)
-1. Fog of War Increased FOV - Credits to NOISE
+1. Fog of War Increased FOV - Credits to `NOISE`
 1. [Yellow Birds](../yellow-birds)
-1. White Rabbits - Credits to NOISE
+1. White Rabbits - Credits to `NOISE`
 1. [Damage Dealt](../damage-dealt)
 
 ## Installing the mod
@@ -22,3 +22,6 @@ This bundle includes the following mods:
 1. Launch the game. The mod bundle is now active.
 
 *Attention:* If you'd like to disable the mod bundle eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
+
+## Screenshots
+![20230313202835_1](https://user-images.githubusercontent.com/16853947/224814159-4b0437bc-a287-48bf-9a98-56839b03deb4.jpg)
