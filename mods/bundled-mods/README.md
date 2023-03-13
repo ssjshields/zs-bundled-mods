@@ -1,4 +1,4 @@
-# Ultimate ZERO Sievert Mod bundle
+# Ultimate ZERO Sievert Mod Bundle
 
 A bundle with your favorite ZERO Sievert mods. Credits to `Eldoofus` for figuring out how to make mods configurable.
 
