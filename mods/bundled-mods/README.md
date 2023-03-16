@@ -10,6 +10,9 @@ This bundle includes the following mods:
 1. [Yellow Birds](../yellow-birds)
 1. White Rabbits - Credits to `NOISE`
 1. [Damage Dealt](../damage-dealt)
+1. [Flexible Sliders](../flexible-sliders)
+1. Dropped armor durability multiplier
+1. Round down items
 
 ## Installing the mod
 
