@@ -28,4 +28,4 @@ This bundle includes the following mods:
 *Attention:* If you'd like to disable the mod bundle eventually, you'll need to keep a backup of the original `data.win` file found in the `ZERO Sievert` directory.
 
 ## Screenshots
-![20230313202835_1](https://user-images.githubusercontent.com/16853947/224814159-4b0437bc-a287-48bf-9a98-56839b03deb4.jpg)
+![20230318131941_1](https://user-images.githubusercontent.com/16853947/226105625-97c07c58-e0f7-4a92-8d6a-645716012823.jpg)
