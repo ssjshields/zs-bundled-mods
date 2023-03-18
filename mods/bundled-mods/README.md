@@ -13,6 +13,7 @@ This bundle includes the following mods:
 1. [Flexible Sliders](../flexible-sliders)
 1. Dropped armor durability multiplier
 1. Round down items
+1. Reworked "Sniper" skill
 
 ## Installing the mod
 
